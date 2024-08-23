@@ -1,4 +1,4 @@
-# web-admin
+# vue3-typescript
 
 ## Project setup
 
